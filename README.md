@@ -1,2 +1,34 @@
-# 7fac0931-hr-recruiting-knowledge-base
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Hr &amp; Recruiting Knowledge Base And Wiki — fully configured and ready t
+# HR & Recruiting Knowledge Base and Wiki Discord Bot
+
+Searchable FAQ, auto-responses to common questions, and contribution tracking. Community-maintained knowledge that reduces repetitive questions.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM3cv12D4sc9JKgUccZM3k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM3cv12D4sc9JKgUccZM3k)
+
